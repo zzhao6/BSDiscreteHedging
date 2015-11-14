@@ -1,1 +1,1 @@
-# BSDiscreteHedgint
+# BSDiscreteHedging
